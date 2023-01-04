@@ -1,6 +1,8 @@
 # com.amplexor.imagemap-pdf
 ------------------------
 
+:wave: This repository was migrated to https://github.com/acolad-digital/com.acolad.imagemap-pdf
+
 # Description
 **com.amplexor.imagemap-pdf** is a plugin for the [DITA-OT](http://dita-ot.github.io) that extends the **org.dita.pdf2** plugin to manage [DITA imagemap element](https://www.oxygenxml.com/dita/1.3/specs/langRef/base/imagemap.html) in PDF.
 
